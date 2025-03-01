@@ -22,7 +22,7 @@ beh
 
 _Congratulations friend, you've completed this course!_
 
-<img src=https://images.app.goo.gl/oGLkS96jGWPqto4B9 alt=celebrate width=300 align=right>
+<img src=https://github.com/Choclotherock/Locura/blob/cd9da4e185746b8a8c22bd0f42da8f9c3d226a6a/gato%20loco.png alt=celebrate width=300 align=right>
 
 Pues aqui esta el codigo de ensamblador a medio hacer que hicimos yo y mi equipo y asi, ahi usen el simulador de 16 bit 
 https://parraman.github.io/asm-simulator/  
