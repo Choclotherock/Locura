@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Ola profe y gente que no tiene nada que hacer
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+beh
 
 </header>
 
@@ -22,25 +22,11 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 _Congratulations friend, you've completed this course!_
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=https://images.app.goo.gl/oGLkS96jGWPqto4B9 alt=celebrate width=300 align=right>
 
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
+Pues aqui esta el codigo de ensamblador a medio hacer que hicimos yo y mi equipo y asi, ahi usen el simulador de 16 bit 
+https://parraman.github.io/asm-simulator/  
+esta chido y pues ahi lo hicimos je
 <footer>
 
 <!--
@@ -50,8 +36,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Aqui ta mi pagina blog pq me dio curiosidad hacer una y asi y ya 
+https://choclotherock.github.io/Locura/
 
 </footer>
